@@ -11,6 +11,7 @@ services:
       easypanel:
         aliases:
           - n8n_relatorio-fertilidade-app
+          - n8n_relatorio-fertilidade-app_undefined
 
 networks:
   easypanel:
