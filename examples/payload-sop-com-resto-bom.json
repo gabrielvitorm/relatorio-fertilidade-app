@@ -1,0 +1,59 @@
+{
+  "nome": "Exemplo SOP",
+  "email": "exemplo.sop@teste.com",
+  "telefone": "+5511999999999",
+  "referencia": "teste-sop-001",
+  "respostas": {
+    "idade": 3,
+    "endometriose": 3,
+    "sop": 0,
+    "celiaca": 3,
+    "autoimune_geral": 3,
+    "obstrucao_tubaria": 3,
+    "obesidade": 3,
+    "magreza": 3,
+
+    "fsh": 3,
+    "amh": 3,
+    "foliculos_antrais": 3,
+    "progesterona": 3,
+
+    "horas_sono": 3,
+    "profundidade_sono": 3,
+    "sonha_muito": 3,
+    "dificuldade_dormir": 3,
+
+    "frequencia_exercicio": 3,
+    "treino_equilibrado": 3,
+    "sedentarismo": 3,
+
+    "ultraprocessados": 3,
+    "fibras_frutas_vegetais": 3,
+    "proteinas_qualidade": 3,
+
+    "frequencia_evacuacao": 3,
+    "gases_inchaco": 3,
+    "disbiose_antibiotico": 3,
+
+    "esteatose_hepatica": 3,
+    "uso_medicamentos": 3,
+    "cor_lingua": 3,
+    "sintomas_tpm_acne": 3,
+
+    "frequencia_infeccoes": 3,
+    "doencas_autoimunes_grau": 3,
+    "marcadores_inflamatorios": 3,
+
+    "estresse_diario": 3,
+    "exaustao": 3,
+    "ansiedade_insonia": 3,
+
+    "ciclo_regular": 3,
+    "ovulacao": 3,
+    "fluxo_menstrual": 3,
+
+    "tsh": 3,
+    "exposicao_toxinas": 3,
+    "historico_familiar": 3
+  }
+}

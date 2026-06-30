@@ -1,0 +1,57 @@
+{
+  "nome": "Exemplo Baixa",
+  "email": "exemplo.baixa@teste.com",
+  "respostas": {
+    "idade": 0,
+    "endometriose": 0,
+    "sop": 0,
+    "celiaca": 0,
+    "autoimune_geral": 0,
+    "obstrucao_tubaria": 0,
+    "obesidade": 0,
+    "magreza": 3,
+
+    "fsh": 0,
+    "amh": 0,
+    "foliculos_antrais": 1,
+    "progesterona": 0,
+
+    "horas_sono": 0,
+    "profundidade_sono": 0,
+    "sonha_muito": 0,
+    "dificuldade_dormir": 0,
+
+    "frequencia_exercicio": 0,
+    "treino_equilibrado": 0,
+    "sedentarismo": 0,
+
+    "ultraprocessados": 0,
+    "fibras_frutas_vegetais": 0,
+    "proteinas_qualidade": 0,
+
+    "frequencia_evacuacao": 0,
+    "gases_inchaco": 0,
+    "disbiose_antibiotico": 0,
+
+    "esteatose_hepatica": 0,
+    "uso_medicamentos": 0,
+    "cor_lingua": 0,
+    "sintomas_tpm_acne": 0,
+
+    "frequencia_infeccoes": 0,
+    "doencas_autoimunes_grau": 0,
+    "marcadores_inflamatorios": 0,
+
+    "estresse_diario": 0,
+    "exaustao": 0,
+    "ansiedade_insonia": 0,
+
+    "ciclo_regular": 0,
+    "ovulacao": 0,
+    "fluxo_menstrual": 0,
+
+    "tsh": 0,
+    "exposicao_toxinas": 0,
+    "historico_familiar": 0
+  }
+}

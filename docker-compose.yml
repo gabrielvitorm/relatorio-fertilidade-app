@@ -1,0 +1,9 @@
+services:
+  relatorio:
+    build: .
+    restart: unless-stopped
+    ports:
+      # escuta só no loopback — o Nginx é quem expõe para o mundo
+      - "127.0.0.1:3001:3000"
+    environment:
+      - RELATORIO_API_KEY=${RELATORIO_API_KEY}

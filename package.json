@@ -1,0 +1,24 @@
+{
+  "name": "relatorio-fertilidade",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test:scoring": "tsx scripts/test-scoring.ts"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^3.4.5",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "^18.3.31",
+    "tsx": "^4.16.2",
+    "typescript": "^5.9.3"
+  }
+}
